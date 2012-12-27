@@ -1418,8 +1418,8 @@ h1.site-title a {
 
 .welcome {float:left; width:310px; margin-right:10px; color:#777;}
 	.welcome h2 {margin-top:0;}
-.direct-goto {position:absolute; right:5em;top:1.5em; padding:5px; color:#936; font:bold 2em/1 gungsuh, batang; text-decoration:none}
-.direct-goto:hover {color:#f1f1f1; background:#993366; text-decoration:none;}
+.direct-goto {position:absolute; right:5em;top:1em; padding:24px 40px; color:#FFF; background-color:#a6a6a6; font:bold 2em/1 gulim; text-decoration:none}
+.direct-goto:hover {color:#FFF; background:#900; text-decoration:none;}
 
 .wppb_holder {float:left; padding:1em;}
 .site-content {margin-top:0;}
