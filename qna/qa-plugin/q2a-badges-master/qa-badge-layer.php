@@ -20,8 +20,7 @@
 				if( !$tmpPoint ) {
 					require_once QA_INCLUDE_DIR.'qa-db-points.php';
 					qa_db_points_update_ifuser($userid, null);
-					$tmpPoint = qa_get_logged_in_points();
-					var_dump( $tmpPoint );
+					$tmpPoint = qa_get_logged_in_points();					
 				}				
 				// first visit check
 				
