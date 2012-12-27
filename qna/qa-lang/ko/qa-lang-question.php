@@ -1,0 +1,165 @@
+<?php
+	
+/*
+	Question2Answer (c) Gideon Greenspan
+
+	http://www.question2answer.org/
+
+	
+	File: qa-include/qa-lang-question.php
+	Version: See define()s at top of qa-include/qa-base.php
+	Description: Language phrases for question page
+
+
+	This program is free software; you can redistribute it and/or
+	modify it under the terms of the GNU General Public License
+	as published by the Free Software Foundation; either version 2
+	of the License, or (at your option) any later version.
+	
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	More about this license: http://www.question2answer.org/license.php
+*/
+
+	return array(
+		'1_answer_title' => '1개의 답변',
+		'a_convert_to_c_on' => '이 답변을 코멘트로:',
+		'a_convert_to_c' => '이 답변을 코멘트로',
+		'a_convert_warn_cs' => '경고: This conversion cannot be reversed and will also move this answer\'s comments.',
+		'a_convert_warn' => '경고: This conversion cannot be reversed.',
+		'a_notify_email' => '답변이 채택되거나 의견이 달리면 이메일 알림 받기:',
+		'a_notify_label' => '답변이 채택되거나 의견이 달리면 이메일 알림 받기',
+		'a_notify_x_label' => '(^) : 답변이 채택되거나 의견이 달리면 이메일 알림 받기',
+		'a_waiting_your_approval' => '이 답변은 아직 승인되지 않았습니다.',
+		'a_your_waiting_approval' => '이 답변은 아직 승인되지 않았습니다..',
+		'add_answer_button' => '답변하기',
+		'add_comment_button' => '의견쓰기',
+		'add_q_favorites' => '이 질문을 관심목록에 추가하기',
+		'answer_button' => '답변하기',
+		'answer_limit' => '너무 많은 답변을 받았습니다. - 밥 먹고 와서 다시 시도해 주세요',
+		'answer_must_confirm' => 'Please ^5confirm your email address^6 to answer this question.',
+		'answer_must_login' => 'Please ^1log in^2 or ^3register^4 to answer this question.',
+		'answer_q_popup' => '이 질문에 답변하기',
+		'approve_button' => '승인버튼',
+		'ask_button' => '질문하기',
+		'ask_follow_from_a' => '이 답변과 연관된 질문을 합니다:',
+		'ask_follow_title' => '관련 질문하기',
+		'ask_limit' => '너무 많은 질문이 요청되었습니다. - 밥 먹고 와서 다시 시도해 주세요',
+		'ask_must_confirm' => 'Please ^5confirm your email address^6 to ask a question.',
+		'ask_must_login' => 'Please ^1log in^2 or ^3register^4 to ask a question.',
+		'ask_same_q' => '비슷한 질문이 있습니다. 확인 후에 다시 질문해 주세요: ( 아래 리스트를 클릭하면 새창으로 열림 )',
+		'ask_title' => '질문하기',
+		'c_notify_email' => '이 후에 의견이 달리면 메일 알림 받기:',
+		'c_notify_label' => '이 후에 의견이 달리면 메일 알림 받기',
+		'c_notify_x_label' => '이 후에 의견이 달리면 메일 알림 받기 (^)',
+		'c_waiting_your_approval' => 'This comment is waiting for your approval',
+		'c_your_waiting_approval' => 'Your comment will be checked and approved shortly.',
+		'category_js_note' => 'To select any category, please enable Javascript in your web browser.',
+		'category_required' => 'Please choose a category',
+		'claim_button' => '내가 쓴 글로 바꾸기',
+		'clear_flags_button' => '신고 취소',
+		'clear_flags_popup' => '유저의 신고 취소',
+		'close_button' => '질문 닫기',
+		'close_duplicate_error' => '중복된 질문을 발견하지 못했습니다 - URL 번호를 다시 입력해 주세요. 예) 123',
+		'close_duplicate' => '다른 질문과 중복된 질문입니다.',
+		'close_form_button' => '질문 닫기',
+		'close_form_title' => '질문 잠그기',
+		'close_original_note' => '질문의 번호를 입력해 주세요. 예) 123',
+		'close_original_title' => '원본 질문의 주소 URL:',
+		'close_q_popup' => '질문을 닫아서 새로운 답변을 받지 않습니다.',
+		'close_reason_title' => '질문을 닫는 이유를 작성해 주세요:',
+		'closed_as_duplicate' => '중복된 질문:',
+		'closed_with_note' => '질문이 닫혀있습니다:',
+		'comment_a_popup' => '질문에 의견쓰기',
+		'comment_button' => '의견쓰기',
+		'comment_limit' => 'Too many comments received - please try again in an hour',
+		'comment_must_confirm' => 'Please ^5confirm your email address^6 to add a comment.',
+		'comment_must_login' => 'Please ^1log in^2 or ^3register^4 to add a comment.',
+		'comment_on_a' => '답변에: ',
+		'comment_on_q' => '질문에: ',
+		'comment_q_popup' => '이 질문에 의견쓰기',
+		'delete_a_popup' => '이 답변을 영구적으로 삭제하기',
+		'delete_button' => '삭제하기',
+		'delete_c_popup' => '이 의견을 영구적으로 삭제하기',
+		'delete_q_popup' => '이 질문을 영구적으로 삭제하기',
+		'duplicate_content' => '중복된 내용으로 보입니다.',
+		'edit_a_popup' => '답변 수정',
+		'edit_a_title' => '답변 수정',
+		'edit_button' => '수정하기',
+		'edit_c_popup' => '의견 수정',
+		'edit_c_title' => '의견 수정',
+		'edit_must_confirm' => 'Please ^5confirm your email address^6 to edit this.',
+		'edit_must_login' => 'Please ^1log in^2 or ^3register^4 to edit this.',
+		'edit_q_popup' => 'Edit this question',
+		'edit_q_title' => 'Edit Question',
+		'example_tags' => 'Example tags: ',
+		'flag_a_popup' => '신고하기',
+		'flag_button' => '신고하기',
+		'flag_c_popup' => '신고하기',
+		'flag_hide_button' => '신고 및 숨기기',
+		'flag_limit' => 'Too many posts flagged - please try again in an hour',
+		'flag_must_confirm' => 'Please ^5confirm your email address^6 to flag posts.',
+		'flag_must_login' => '^1로그인^2 또는 ^3가입한 회원^4만 신고할 수 있습니다.',
+		'flag_not_allowed' => 'Flagging this is not allowed',
+		'flag_q_popup' => 'Flag this question as spam or inappropriate',
+		'follow_a_popup' => 'Ask a new question relating to this answer',
+		'follow_button' => '관련된 질문하기',
+		'follows_a' => '질문에 관련된:',
+		'follows_q' => '질문에 대해:',
+		'hide_a_popup' => '답변 숨기기',
+		'hide_button' => '숨기기',
+		'hide_c_popup' => '이 의견 숨기기',
+		'hide_q_popup' => '이 질문 숨기기',
+		'matching_tags' => '연관된 태그: ',
+		'max_tags_x' => '^ 개 이하의 태그만 사용할 수 있습니다..',
+		'min_tags_x' => '^ 개 이상의 태그를 입력해야 합니다.',
+		'notify_email_note' => '개인정보: 당신의 이메일 주소는 알림에만 사용됩니다.',
+		'q_category_label' => '카테고리:',
+		'q_content_label' => '질문의 내용을 상세하게 작성해 주세요:',
+		'q_hidden_author' => '이 질문은 숨겨졌습니다. (작성자에 의해)',
+		'q_hidden_flagged' => '이 질문은 숨겨졌습니다.',
+		'q_hidden_other' => '이 질문은 숨겨졌습니다.',
+		'q_notify_email' => '답변이나 의견이 달리면 이메일로 알림 :',
+		'q_notify_label' => '답변이나 의견이 달리면 이메일로 알림 ',
+		'q_notify_x_label' => '답변이나 의견이 달리면 이메일로 알림 (^)',
+		'q_tags_comma_label' => 'Tags - use comma (,) as a separator:',
+		'q_tags_label' => '태그 - 띄워쓰기로 여러개의 태그를 입력할 수 있습니다:',
+		'q_title_label' => '제목 ( 내용을 요약하는 명확한 제목을 써주세요 ) :',
+		'q_waiting_approval' => '이 질문은 아직 승인되지 않았습니다.',
+		'q_waiting_your_approval' => '이 질문은 아직 승인되지 않았습니다.',
+		'q_your_waiting_approval' => '이 질문은 아직 승인되지 않았습니다.',
+		'recat_button' => '태그 재정의',
+		'recat_popup' => '카테고리 변경',
+		'recat_q_title' => '카테고리 변경',
+		'reject_button' => '거절',
+		'remove_q_favorites' => '내 관심목록에서 질문 제거하기',
+		'reopen_button' => '다시열기',
+		'reply_button' => '의견',
+		'reply_c_popup' => '의견쓰기',
+		'reshow_button' => '다시 보이기',
+		'retag_button' => '태그재정의',
+		'retag_cat_popup' => '카테고리 변경 또는 태그 재정의',
+		'retag_popup' => '태그 재정의',
+		'retag_q_title' => '태그 재정의',
+		'select_popup' => '이 질문을 채택하기',
+		'select_text' => '답변 채택',
+		'show_1_comment' => '1 개의 의견 보기',
+		'show_1_previous_comment' => '이전 1 개의 의견 보기',
+		'show_x_comments' => '^ 의견 보기',
+		'show_x_previous_comments' => 'Show ^ previous comments',
+		'unflag_button' => '신고취소',
+		'unflag_popup' => 'Remove the flag that you added',
+		'unselect_popup' => 'Click to remove selection',
+		'x_answers_title' => '^ 개의 답변',
+		'your_answer_title' => '당신의 답변',
+		'your_comment_a' => '이 답변에 의견 달기:',
+		'your_comment_q' => '이 질문에 의견 달기:',
+	);
+	
+
+/*
+	Omit PHP closing tag to help avoid accidental output
+*/

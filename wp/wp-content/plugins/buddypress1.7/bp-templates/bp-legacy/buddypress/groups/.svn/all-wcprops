@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/6516/trunk/bp-templates/bp-legacy/buddypress/groups
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6463/trunk/bp-templates/bp-legacy/buddypress/groups/create.php
+END
+groups-loop.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/groups/groups-loop.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/groups/index.php
+END

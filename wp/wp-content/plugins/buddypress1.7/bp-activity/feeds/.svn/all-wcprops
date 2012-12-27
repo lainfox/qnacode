@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/6652/trunk/bp-activity/feeds
+END
+bp-activity-favorites-feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6652/trunk/bp-activity/feeds/bp-activity-favorites-feed.php
+END
+bp-activity-personal-feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6652/trunk/bp-activity/feeds/bp-activity-personal-feed.php
+END
+bp-activity-mygroups-feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6652/trunk/bp-activity/feeds/bp-activity-mygroups-feed.php
+END
+bp-activity-friends-feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6652/trunk/bp-activity/feeds/bp-activity-friends-feed.php
+END
+bp-activity-group-feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/6652/trunk/bp-activity/feeds/bp-activity-group-feed.php
+END
+bp-activity-mentions-feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6652/trunk/bp-activity/feeds/bp-activity-mentions-feed.php
+END
+bp-activity-sitewide-feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/6652/trunk/bp-activity/feeds/bp-activity-sitewide-feed.php
+END

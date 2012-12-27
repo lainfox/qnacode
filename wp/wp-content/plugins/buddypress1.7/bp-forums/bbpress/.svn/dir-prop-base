@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 61
+bb-config.php
+my-templates
+my-plugins
+my-languages
+.htaccess
+
+END

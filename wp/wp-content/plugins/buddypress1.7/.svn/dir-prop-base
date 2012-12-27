@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 31
+.DS_Store
+.DS_store
+.gitignore
+
+K 13
+svn:mergeinfo
+V 53
+/branches/1.5:5187,5203,5210-5216,5220,5225,5247,5635
+END

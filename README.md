@@ -1,6 +1,7 @@
 qnacode
 =======
+http://qnacode.com
 
-QnAcode
+Web front-end HTML,CSS,JavaScript Q&A forum
 
-## Hello world
+by lainox@gmail.com

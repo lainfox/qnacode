@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/!svn/ver/6655/trunk
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/6093/trunk/license.txt
+END
+humans.txt
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/6455/trunk/humans.txt
+END
+bp-loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/6637/trunk/bp-loader.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/6258/trunk/readme.txt
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/3771/trunk/favicon.ico
+END

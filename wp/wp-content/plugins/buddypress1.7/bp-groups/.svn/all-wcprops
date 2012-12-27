@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/6654/trunk/bp-groups
+END
+bp-groups-adminbar.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6342/trunk/bp-groups/bp-groups-adminbar.php
+END
+bp-groups-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6654/trunk/bp-groups/bp-groups-admin.php
+END
+bp-groups-buddybar.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6342/trunk/bp-groups/bp-groups-buddybar.php
+END
+bp-groups-activity.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6342/trunk/bp-groups/bp-groups-activity.php
+END
+bp-groups-classes.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6654/trunk/bp-groups/bp-groups-classes.php
+END
+bp-groups-actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6389/trunk/bp-groups/bp-groups-actions.php
+END
+bp-groups-screens.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6599/trunk/bp-groups/bp-groups-screens.php
+END
+bp-groups-cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6611/trunk/bp-groups/bp-groups-cache.php
+END
+bp-groups-widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6432/trunk/bp-groups/bp-groups-widgets.php
+END
+bp-groups-loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6653/trunk/bp-groups/bp-groups-loader.php
+END
+bp-groups-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/6574/trunk/bp-groups/bp-groups-functions.php
+END
+bp-groups-filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6342/trunk/bp-groups/bp-groups-filters.php
+END
+bp-groups-notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/6589/trunk/bp-groups/bp-groups-notifications.php
+END
+bp-groups-forums.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6342/trunk/bp-groups/bp-groups-forums.php
+END
+bp-groups-template.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6614/trunk/bp-groups/bp-groups-template.php
+END

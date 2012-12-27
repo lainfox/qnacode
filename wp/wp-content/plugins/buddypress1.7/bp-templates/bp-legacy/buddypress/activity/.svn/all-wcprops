@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6596/trunk/bp-templates/bp-legacy/buddypress/activity
+END
+entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6551/trunk/bp-templates/bp-legacy/buddypress/activity/entry.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/activity/comment.php
+END
+activity-loop.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/activity/activity-loop.php
+END
+post-form.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/activity/post-form.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/activity/index.php
+END

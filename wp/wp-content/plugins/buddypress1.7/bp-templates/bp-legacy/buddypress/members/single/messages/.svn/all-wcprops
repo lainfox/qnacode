@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/6547/trunk/bp-templates/bp-legacy/buddypress/members/single/messages
+END
+notices-loop.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/messages/notices-loop.php
+END
+messages-loop.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/messages/messages-loop.php
+END
+single.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/6547/trunk/bp-templates/bp-legacy/buddypress/members/single/messages/single.php
+END
+compose.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/messages/compose.php
+END

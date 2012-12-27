@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/6622/trunk/bp-settings
+END
+bp-settings-actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6361/trunk/bp-settings/bp-settings-actions.php
+END
+bp-settings-screens.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6317/trunk/bp-settings/bp-settings-screens.php
+END
+bp-settings-loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6622/trunk/bp-settings/bp-settings-loader.php
+END
+bp-settings-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/6317/trunk/bp-settings/bp-settings-functions.php
+END
+bp-settings-template.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/6317/trunk/bp-settings/bp-settings-template.php
+END

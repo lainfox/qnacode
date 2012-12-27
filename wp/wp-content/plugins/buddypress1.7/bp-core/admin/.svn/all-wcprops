@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/6637/trunk/bp-core/admin
+END
+bp-core-components.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/6581/trunk/bp-core/admin/bp-core-components.php
+END
+bp-core-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6632/trunk/bp-core/admin/bp-core-functions.php
+END
+bp-core-slugs.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6558/trunk/bp-core/admin/bp-core-slugs.php
+END
+bp-core-actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/6558/trunk/bp-core/admin/bp-core-actions.php
+END
+bp-core-schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6583/trunk/bp-core/admin/bp-core-schema.php
+END
+bp-core-settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6456/trunk/bp-core/admin/bp-core-settings.php
+END

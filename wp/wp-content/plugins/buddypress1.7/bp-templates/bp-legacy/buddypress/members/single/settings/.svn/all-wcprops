@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/settings
+END
+capabilities.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/settings/capabilities.php
+END
+notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/settings/notifications.php
+END
+delete-account.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/settings/delete-account.php
+END
+general.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/6436/trunk/bp-templates/bp-legacy/buddypress/members/single/settings/general.php
+END

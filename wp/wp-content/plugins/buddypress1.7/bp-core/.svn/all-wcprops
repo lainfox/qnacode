@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/6654/trunk/bp-core
+END
+bp-core-loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/6585/trunk/bp-core/bp-core-loader.php
+END
+bp-core-widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6432/trunk/bp-core/bp-core-widgets.php
+END
+bp-core-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6579/trunk/bp-core/bp-core-functions.php
+END
+bp-core-filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6589/trunk/bp-core/bp-core-filters.php
+END
+bp-core-theme-compatibility.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6605/trunk/bp-core/bp-core-theme-compatibility.php
+END
+bp-core-template.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/6641/trunk/bp-core/bp-core-template.php
+END
+bp-core-adminbar.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/6342/trunk/bp-core/bp-core-adminbar.php
+END
+bp-core-dependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6605/trunk/bp-core/bp-core-dependency.php
+END
+bp-core-template-loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/6537/trunk/bp-core/bp-core-template-loader.php
+END
+bp-core-wpabstraction.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/6342/trunk/bp-core/bp-core-wpabstraction.php
+END
+bp-core-update.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/6581/trunk/bp-core/bp-core-update.php
+END
+bp-core-cssjs.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/6620/trunk/bp-core/bp-core-cssjs.php
+END
+bp-core-caps.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/6306/trunk/bp-core/bp-core-caps.php
+END
+bp-core-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/6581/trunk/bp-core/bp-core-admin.php
+END
+bp-core-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6495/trunk/bp-core/bp-core-options.php
+END
+bp-core-buddybar.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/6442/trunk/bp-core/bp-core-buddybar.php
+END
+bp-core-classes.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6654/trunk/bp-core/bp-core-classes.php
+END
+bp-core-actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6579/trunk/bp-core/bp-core-actions.php
+END
+bp-core-avatars.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/6601/trunk/bp-core/bp-core-avatars.php
+END
+bp-core-moderation.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/6342/trunk/bp-core/bp-core-moderation.php
+END
+bp-core-component.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/6648/trunk/bp-core/bp-core-component.php
+END
+bp-core-catchuri.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/6654/trunk/bp-core/bp-core-catchuri.php
+END
+bp-core-cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/6496/trunk/bp-core/bp-core-cache.php
+END
