@@ -26,7 +26,43 @@
 
 	class qa_html_theme extends qa_html_theme_base
 	{	
+		function doctype()
+		{
+			$this->output('<!DOCTYPE html>');
+		}
 		
+		function html()
+		{
+			$this->output(
+				'<HTML>'
+			);			
+			$this->head();
+			$this->body();
+			
+			$this->output(
+				'<!-- Powered by Question2Answer - http://www.question2answer.org/ -->',
+				'</HTML>'
+			);
+		}
+		
+		function head()
+		{
+			$this->output(
+				'<HEAD>',
+				'<META charset="utf-8" />'
+			);
+			
+			$this->head_title();
+			$this->head_metas();
+			$this->head_css();
+			$this->head_links();
+			$this->head_lines();
+			$this->head_script();
+			$this->head_custom();
+			
+			$this->output('</HEAD>');
+		}
+
 		function head_script() // change style of WYSIWYG editor to match theme better
 		{
 			qa_html_theme_base::head_script();
@@ -74,6 +110,15 @@
 				$this->output_raw($this->content['body_header']);
 				$this->output('</DIV>');
 			}
+		}
+
+		function logo()
+		{
+			$this->output(
+				'<DIV CLASS="qa-logo">',
+				'<a href="http://qnacode.com" class="qa-logo-link">QnAcode Q&amp;A</a>',
+				'</DIV>'
+			);
 		}
 		
 		function header() // removes user navigation and search from header and replaces with custom header content. Also opens new <DIV>s
@@ -341,7 +386,7 @@
 		{
 			$this->output(
 				'<span class="qa-attribution">',
-				'2012 &copy; <a href="http://qnacode.com" class="copyright">QnAcode</a>',
+				'<a href="http://qnacode.com" class="copyright">QnAcode</a>',
 				'</span>'
 			);
 			//qa_html_theme_base::attribution();
