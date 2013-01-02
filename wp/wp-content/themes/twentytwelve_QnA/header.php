@@ -52,9 +52,14 @@ endif;
 	<header id="masthead" class="site-header" role="banner">
 		<hgroup>
 			<h1 class="site-title"><a href="<?php echo esc_url( 'http://qnacode.com/qna' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 		</hgroup>
-		<a href="/" class="direct-goto">QnA code 메인으로 이동하기</a>
+
+		<section class="screenshot">
+          <div class="overlay">
+            <h2><a href="/" class="direct-goto">&raquo; 메인으로 이동하기</a></h2>
+            <p><?php bloginfo( 'description' ); ?></p>
+          </div>
+        </section>		
 
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<h3 class="menu-toggle"><?php _e( 'Menu', 'twentytwelve' ); ?></h3>
