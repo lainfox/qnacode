@@ -3,8 +3,7 @@ Contributors: miled
 Tags:  facebook, google, yahoo, twitter, windows live, myspace, foursquare, linkedin, gowalla, last.fm, instagram, goodreads, tumblr, aol, vkontakte, stackoverflow, github, 500px, skyrock, mixi.jp, steam, login, register, comment, social, social networks, social login
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 1.2.2
-Donate link: http://bit.ly/OTuFYN
+Stable tag: 1.2.3 
 License: MIT License
 License URI: http://www.opensource.org/licenses/MIT
 
@@ -94,6 +93,11 @@ If you want to add the social login widget to another location in your theme, yo
 3. **Setup** - To correctly setup these Identity Providers please carefully follow the help section of each one.
 
 == Changelog ==
+
+= 1.2.3 =
+
+* Update Hybridauth Library to 2.1.1-dev (fix fb login issue and others stuff)
+* remove PHP PECL OAuth extension conflict
 
 = 1.2.2 =
 

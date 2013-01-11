@@ -107,7 +107,7 @@
 	containing wp-load.php. You do not need to set the QA_MYSQL_* constants above since these
 	will be taken from WordPress automatically. See online documentation for more details.	
 */
-	define('QA_WORDPRESS_INTEGRATE_PATH', '/opt/apps/qnacode/wp');
+	define('QA_WORDPRESS_INTEGRATE_PATH', '/opt/bitnami/apache2/htdocs/qnacode.com/wp');
 
 /*
 	Some settings to help optimize your Question2Answer site's performance.

@@ -27,8 +27,7 @@ function wsl_check_requirements()
 		   ! version_compare( PHP_VERSION, '5.2.0', '>=' )
 		|| ! isset( $_SESSION["wsl::plugin"] )	
 		|| ! function_exists('curl_init')
-		|| ! function_exists('json_decode')
-		||   extension_loaded('oauth')   
+		|| ! function_exists('json_decode') 
 	)
 	return false;
 	

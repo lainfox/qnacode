@@ -117,7 +117,7 @@
 		'nav_qa' => 'Q&A',
 		'nav_qs' => '전체질문',
 		'nav_register' => '가입하기',
-		'nav_tags' => '태그들',
+		'nav_tags' => '태그',
 		'nav_unanswered' => '도와주세요',
 		'nav_updates' => '내 업데이트',
 		'nav_users' => '유저',
